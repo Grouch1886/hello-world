@@ -12,6 +12,4 @@ Greets from me & my kitty cat.
 <b> Kalo Sekarang Kita Coba tebel yak </b>
 
 <url>https://www.youtube.com/watch?v=ymE4EDvSKbk</url>
-
-<bradio>kdsid</bradio>
-<center>nothing's godd </center>
+<u>Underlined dulu deh </u>
