@@ -7,5 +7,5 @@ Hi Humans!
 Grouch Here, I Like noodle.js.  i write this just for fun and learn something new. 
 Greets from me & my kitty cat.
 
-<spoiler>nyobain spoiler </spoiler>
+<i>nyoba menara pissa </i>
 
