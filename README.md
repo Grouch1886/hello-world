@@ -10,8 +10,7 @@ Greets from me & my kitty cat.
 
 <url>https://www.youtube.com/watch?v=ymE4EDvSKbk</url>
 
-
-<b>coba underlined</b>
-<ul>sasasa </ul>
-<li>sasasasa</li>
-
+  <b>menu list makann</b>
+<li>ayam kecap</li>
+<li>ayam goreng</li>
+<li>t-rex panggang</li>
