@@ -14,3 +14,5 @@ Greets from me & my kitty cat.
 <li>ayam kecap</li>
 <li>ayam goreng</li>
 <li>t-rex panggang</li>
+
+<modder>dimas mau jadi modder</modder>
