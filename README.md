@@ -16,3 +16,5 @@ Greets from me & my kitty cat.
 <li>t-rex panggang</li>
 
 <modder>dimas mau jadi modder</modder>
+
+print = ("hello world")
